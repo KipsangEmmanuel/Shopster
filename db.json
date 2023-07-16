@@ -63,25 +63,25 @@
     {
       "name": "Cake",
       "category": "Dessert",
-      "isInCart": false,
+      "isInCart": true,
       "id": 11
     },
     {
       "name": "Cake",
       "category": "Dessert",
-      "isInCart": false,
+      "isInCart": true,
       "id": 12
     },
     {
       "name": "Cake",
       "category": "Dessert",
-      "isInCart": false,
+      "isInCart": true,
       "id": 13
     },
     {
       "name": "Milk",
       "category": "Dessert",
-      "isInCart": false,
+      "isInCart": true,
       "id": 14
     }
   ]
