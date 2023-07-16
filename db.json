@@ -35,6 +35,54 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Pizza",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Cream",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "Cream",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 9
+    },
+    {
+      "name": "Cake",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 10
+    },
+    {
+      "name": "Cake",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 11
+    },
+    {
+      "name": "Cake",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 12
+    },
+    {
+      "name": "Cake",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 13
+    },
+    {
+      "name": "Milk",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 14
     }
   ]
 }
