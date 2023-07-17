@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "id": 1,
-      "name": "Yogurt",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
       "id": 2,
       "name": "Pomegranate",
       "category": "Produce",
@@ -53,36 +47,6 @@
       "category": "Produce",
       "isInCart": false,
       "id": 9
-    },
-    {
-      "name": "Cake",
-      "category": "Dessert",
-      "isInCart": false,
-      "id": 10
-    },
-    {
-      "name": "Cake",
-      "category": "Dessert",
-      "isInCart": true,
-      "id": 11
-    },
-    {
-      "name": "Cake",
-      "category": "Dessert",
-      "isInCart": true,
-      "id": 12
-    },
-    {
-      "name": "Cake",
-      "category": "Dessert",
-      "isInCart": true,
-      "id": 13
-    },
-    {
-      "name": "Milk",
-      "category": "Dessert",
-      "isInCart": true,
-      "id": 14
     }
   ]
 }

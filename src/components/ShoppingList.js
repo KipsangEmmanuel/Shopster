@@ -39,6 +39,11 @@ function ShoppingList() {
     return item.category === selectedCategory;
   });
 
+  function handleDeleteItem(deletedItem) {
+
+    // console.log("In ShoppingCart:", deletedItem)
+  }
+
   return (
     <div className="ShoppingList">
         {/* add the onAddItem prop! */}
@@ -50,7 +55,12 @@ function ShoppingList() {
       <ul className="Items">
         {/* pass it as a prop to Item */}
         {itemsToDisplay.map((item) => (
-          <Item key={item.id} item={item} onUpdateItem={handleUpdateItem}/>
+          <Item 
+            key={item.id} 
+            item={item} 
+            onUpdateItem={handleUpdateItem}
+            onDeleteItem={handleDeleteItem}
+            />
         ))}
       </ul>
     </div>
